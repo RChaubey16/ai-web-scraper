@@ -42,6 +42,7 @@ pip install -r requirements.txt
 4. Install ChromeDriver:
    - Download ChromeDriver compatible with your Chrome browser version
    - Place the `chromedriver` executable in the project root directory
+   - chromedrivers can be downloaded from [this link](https://googlechromelabs.github.io/chrome-for-testing/#stable)
 
 5. Install and run Ollama:
    - Follow instructions at [Ollama's official website](https://ollama.ai/)
