@@ -47,9 +47,9 @@ pip install -r requirements.txt
    - Follow instructions at [Ollama's official website](https://ollama.ai/)
    - Pull the required model:
 ```bash
-ollama pull llama3
+ollama pull llama3.1
 
-ollama run llama3
+ollama run llama3.1
 ```
 
 ## Usage
