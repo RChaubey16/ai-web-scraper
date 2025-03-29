@@ -24,8 +24,8 @@ The AI Web Scraper is designed to:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd AI-webscraper
+git clone https://github.com/RChaubey16/ai-web-scraper.git
+cd ai-web-scraper
 ```
 
 2. Create and activate a virtual environment:
